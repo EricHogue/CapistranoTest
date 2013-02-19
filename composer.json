@@ -1,0 +1,9 @@
+{
+	"require": {
+		"monolog/monolog": "1.2.*"
+	},
+
+	"autoload": {
+		"psr-0": {"RDM": "src/"}
+	}
+}
